@@ -1,2 +1,2 @@
 # MechFirmaCraft
-TerraFirmaCraft with several Automation Mods
+A few mods thrown together that we like.
