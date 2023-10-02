@@ -1,5 +1,5 @@
 {
-  "configVersion": 2,
+  "configVersion": 3,
   "enableSignBuffering": true,
   "targetFPSNameTags": 60,
   "enableNametagScreenBuffering": false,
@@ -11,13 +11,13 @@
     "forceUpdates": false
   },
   "debugScreenSettings": {
-    "enabled": true,
+    "enabled": false,
     "maxFps": 10,
     "forceBlend": false,
     "forceUpdates": false
   },
   "hotbarSettings": {
-    "enabled": true,
+    "enabled": false,
     "maxFps": 20,
     "forceBlend": false,
     "forceUpdates": false

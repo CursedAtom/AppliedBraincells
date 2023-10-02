@@ -10,9 +10,9 @@
 	#Range: 0.0 ~ 10.0
 	"Vertical Speed" = 1.0
 	#Allows travelling through transparent blocks in freecam.
-	"Ignore Transparent Blocks" = true
+	"Ignore Transparent Blocks" = false
 	#Allows travelling through doors/trapdoors/gates in freecam.
-	"Ignore Openable Blocks" = true
+	"Ignore Openable Blocks" = false
 	#Allows travelling through all blocks in freecam.
 	"Ignore All Collision" = false
 	#Whether 'Initial Perspective' should check for collision, even when using 'Ignore All Collision'.
