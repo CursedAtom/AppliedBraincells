@@ -4,7 +4,7 @@ ServerEvents.recipes(event => {
          "type": "mekanism:combining",
          "extraInput": {
            "ingredient": {
-             "tag": "forge:cobblestone/normal"
+             "tag": "forge:dirt"
            }
          },
          "mainInput": {
