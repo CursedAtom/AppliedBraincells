@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    event.custom({
+    event.custom(
       {
          "type": "mekanism:combining",
          "extraInput": {
@@ -16,5 +16,5 @@ ServerEvents.recipes(event => {
            "item": "minecraft:gravel"
          }
        }
-       })
+       )
 })
