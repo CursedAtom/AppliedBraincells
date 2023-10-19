@@ -1,17 +1,19 @@
+event.custom(
 {
   "type": "mekanism:nucleosynthesizing",
   "duration": 1000,
   "gasInput": {
-    "amount": 32,
+    "amount": 4,
     "gas": "mekanism:antimatter"
   },
   "itemInput": {
     "ingredient": {
-      "item": "minecraft:ancient_debris"
+      "item": "minecraft:nether_gold_ore"
     }
   },
   "output": {
     "amount": 2,
-    "item": "minecraft:ancient_debris"
+    "item": "minecraft:nether_gold_ore"
   }
 }
+)

@@ -1,3 +1,4 @@
+event.custom(
 {
   "type": "mekanism:nucleosynthesizing",
   "duration": 1000,
@@ -7,11 +8,12 @@
   },
   "itemInput": {
     "ingredient": {
-      "item": "minecraft:nether_gold_ore"
+      "item": "minecraft:nether_quartz_ore"
     }
   },
   "output": {
     "amount": 2,
-    "item": "minecraft:nether_gold_ore"
+    "item": "minecraft:nether_quartz_ore"
   }
 }
+)

@@ -1,4 +1,4 @@
-
+event.custom(
 {
     "type": "mekanism:combining",
     "extraInput": {
@@ -15,3 +15,4 @@
       "item": "minecraft:gravel"
     }
 }
+)
