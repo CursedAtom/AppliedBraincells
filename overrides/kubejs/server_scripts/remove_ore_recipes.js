@@ -28,4 +28,5 @@ ServerEvents.recipes(event => {
     event.remove({id: 'mekanism:processing/tin/ore/from_raw'})
     event.remove({id: 'mekanism:processing/uranium/ore/deepslate_from_raw'})
     event.remove({id: 'mekanism:processing/uranium/ore/from_raw'})
+
 })
