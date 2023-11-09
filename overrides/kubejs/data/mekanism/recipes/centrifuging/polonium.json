@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:centrifuging",
+  "input": {
+    "amount": 1,
+    "gas": "mekanism:plutonium"
+  },
+  "output": {
+    "amount": 1,
+    "gas": "mekanism:polonium"
+  }
+}

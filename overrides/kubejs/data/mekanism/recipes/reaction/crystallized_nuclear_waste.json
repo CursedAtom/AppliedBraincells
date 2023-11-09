@@ -1,0 +1,26 @@
+{
+    "type": "mekanism:reaction",
+    "duration": 400,
+    "energyRequired": 200,
+    "fluidInput": {
+      "amount": 100,
+      "fluid": "kubejs:neutralized_waste"
+    },
+    "gasInput": {
+      "amount": 1,
+      "gas": "mekanism:oxygen"
+    },
+    "gasOutput": {
+      "amount": 1,
+      "gas": "mekanism:oxygen"
+    },
+    "itemInput": {
+      "ingredient": {
+        "item": "minecraft:iron_nugget"
+      }
+    },
+    "itemOutput": {
+      "count": 1,
+      "item": "kubejs:crystallized_nuclear_waste"
+    }
+  }

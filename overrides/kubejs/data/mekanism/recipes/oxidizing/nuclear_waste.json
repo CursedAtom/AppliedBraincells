@@ -1,0 +1,12 @@
+{
+    "type": "mekanism:oxidizing",
+    "input": {
+      "ingredient": {
+        "item": "kubejs:crystallized_nuclear_waste"
+      }
+    },
+    "output": {
+      "amount": 1000,
+      "gas": "mekanism:nuclear_waste"
+    }
+  }

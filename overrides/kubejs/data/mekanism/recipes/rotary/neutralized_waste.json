@@ -1,0 +1,19 @@
+{
+    "type": "mekanism:rotary",
+    "fluidInput": {
+      "amount": 1,
+      "fluid": "kubejs:neutralized_waste"
+    },
+    "fluidOutput": {
+      "amount": 1,
+      "fluid": "kubejs:neutralized_waste"
+    },
+    "gasInput": {
+      "amount": 1,
+      "gas": "mekanism:polonium"
+    },
+    "gasOutput": {
+      "amount": 1,
+      "gas": "mekanism:polonium"
+    }
+  }
